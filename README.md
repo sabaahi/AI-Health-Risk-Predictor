@@ -30,12 +30,8 @@ Inspired by my pre-med background, this project combines medical knowledge with 
 - Decision Tree: 86%
 - Logistic Regression: 83%
 
-## 🔗 Live Demo
-*Link to Streamlit Cloud or Hugging Face Spaces (if hosted)*
-
 ## 📁 Dataset
 Used `Pima Indians Diabetes Dataset` from Kaggle  
-*(Add source link)*
 
 ## 🧠 Future Plans
 - Add early cancer or stroke risk models
