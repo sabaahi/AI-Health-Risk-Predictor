@@ -1,21 +1,42 @@
-# AI-Powered Health Risk Predictor
+## 🔍 Overview
+AI-powered web tool that predicts health risks (e.g., diabetes, heart disease) based on user medical inputs.
 
-A Streamlit web app for predicting health risks using machine learning.
+## 💡 Motivation
+Inspired by my pre-med background, this project combines medical knowledge with AI to explore preventive diagnostics.
 
-## Features
-- Upload your health dataset
-- Automated data preprocessing
-- Multiple ML models
-- Interactive visualizations
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Scikit-learn)
+- Streamlit (for UI)
+- Matplotlib & Seaborn (for visualization)
 
-## Setup
-1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run: `streamlit run app.py`
+## 📊 Features
+- Health input form (age, bp, glucose, etc.)
+- ML model prediction (e.g., Logistic Regression, Decision Tree)
+- Data visualization (correlations, risk factors)
+- Model comparison section
 
-## Usage
-- Upload a CSV dataset
-- View predictions and model performance
+## 📷 Screenshots
+*(Insert 2–3 images of the UI, form, and prediction output)*
 
-## License
-MIT License
+## 🧪 Sample Inputs
+| Feature       | Value  |
+|---------------|--------|
+| Age           | 45     |
+| Blood Pressure| 130    |
+| Glucose Level | 165    |
+| BMI           | 28.5   |
+
+## 📈 Model Accuracy
+- Decision Tree: 86%
+- Logistic Regression: 83%
+
+## 🔗 Live Demo
+*Link to Streamlit Cloud or Hugging Face Spaces (if hosted)*
+
+## 📁 Dataset
+Used `Pima Indians Diabetes Dataset` from Kaggle  
+*(Add source link)*
+
+## 🧠 Future Plans
+- Add early cancer or stroke risk models
+- Include data from wearable devices
