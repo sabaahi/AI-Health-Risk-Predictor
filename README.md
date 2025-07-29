@@ -15,8 +15,6 @@ Inspired by my pre-med background, this project combines medical knowledge with 
 - Data visualization (correlations, risk factors)
 - Model comparison section
 
-## 📷 Screenshots
-*(Insert 2–3 images of the UI, form, and prediction output)*
 
 ## 🧪 Sample Inputs
 | Feature       | Value  |
